@@ -10,10 +10,7 @@ nav{
    
 }
 
-.nave-bar{
 
-
-}
 .nave-bar ul{
   display: flex;
   list-style: none;
@@ -49,9 +46,8 @@ nav{
 
 
 }
-.banner-caption{
 
-}
+
 .banner-text{
 
     font-size: 75px;
