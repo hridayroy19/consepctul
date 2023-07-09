@@ -1,0 +1,242 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(167, 158, 158);
+    padding: 15px;
+   
+}
+
+.nave-bar{
+
+
+}
+.nave-bar ul{
+  display: flex;
+  list-style: none;
+
+    
+}
+.nave-bar li a{
+    margin: 12px;
+    color:black;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.logo{
+  width: 150px;
+   
+}
+.header-logo{
+    width: 200px;
+}
+/* nav bar end */
+
+.banner-picture{
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-image: url("../image/background.jpg");
+   height: 100vh;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   text-align: center;
+   justify-content: center;
+
+
+}
+.banner-caption{
+
+}
+.banner-text{
+
+    font-size: 75px;
+    color: rgb(46, 42, 45);
+
+}
+.banner-style{
+    color: red;
+}
+.banner-about{
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.banner-btn{
+    background-color: red;
+    border: 0px;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    color: white;
+    text-transform: capitalize;
+    
+}
+.btn-more{
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+    color: black;
+    text-transform: capitalize;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    text-align: center;
+    align-items: center;
+    
+}
+h5{
+    font-size: 15px;
+}
+.box-pic{
+    height: 50%;
+    width: 50%;
+   
+}
+.main-section{
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(117, 114, 114);
+    color: white;
+}
+.service-section{
+    display: flex;
+
+}
+.boxs{
+    margin: 10px;
+}
+.contenar{
+    margin-left: 70px;
+}
+.main-about{
+    font-size: 15px;
+}
+.main-btn{
+    background-color: white;
+    color: red;
+    padding: 8px;
+    border-radius: 18px;
+    margin: 5px;
+}
+.service-section{
+    margin-right: 40px;
+    margin: 20px;
+}
+.main-hnd{
+    font-size:35px;
+    margin: 5px;
+}
+
+/* .call-ico{
+    height:50px;
+    
+}
+.contact-line{
+    background-color: red;
+}
+.contact-line{
+    display: flex;
+    padding: 30px;
+    text-align: center;
+    align-items: center;
+    width: 70%;
+} */
+.conact-pic{
+    width: 70px;
+    height: 90px;
+}
+.contace-logo{
+    display: flex;
+     align-items: center;
+     text-align: center;
+     margin: 10px;
+     padding: 5px;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:red;   
+    padding: 20px;
+    width: 75%;
+    margin: auto;
+    margin-top: -30px;
+    border-radius: 5px;
+}
+.footer-head{
+    text-align: center;
+    margin-top: 15px;
+
+}
+.pic-gelary{
+height: 380px;
+width: 220px;
+border: 1px solid blue;
+border-radius: 3px;
+box-shadow: 8px 8px  7px black;
+}
+.img-section{
+    height: 200px;
+    width: 100%;
+}
+    .gelary{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    align-items: center;    
+    gap: 20px;
+    margin-top: 30px;
+    }
+    .banner-btnt{
+        background-color: white;
+        border: 0px;
+        padding: 10px;
+        font-size: 15px;
+        border-radius: 3px;
+        color: rgb(27, 25, 25);
+        text-transform: capitalize;
+        
+    }
+    .contact-conternar{
+        display: flex;
+        margin-top: 35px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-color: black;
+        color: white;
+
+    }
+    .contace-sur{
+        padding: 50px;
+       width: 55%;
+      margin:auto;
+      font-size: 20px;
+      text-align: center;   
+      text-align: center; 
+    }
+    .copy{
+        text-align: center;
+        background-color: black;
+        color: white;
+        font-size: 20px;
+    
+    }
+    .picuter-logo{
+        height: 50px;
+        width: 130px;
+    }
